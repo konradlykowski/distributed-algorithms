@@ -1,1 +1,1 @@
-Some hackerrank problems solved here.
+Some hackerrank distributed problems solved here.
