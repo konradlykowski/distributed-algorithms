@@ -26,8 +26,8 @@ class MapReduceComposite
       
       Iterator it = intermediate.entrySet().iterator();
       while (it.hasNext()) {
-         Map.Entry pair = (Map.Entry)it.next();
-         reducer((String)pair.getKey(), (ArrayList)pair.getValue());
+         Map.Entry pair = (Map.Entry) it.next();
+         reducer((String) pair.getKey(), (ArrayList)pair.getValue());
          it.remove();
       }
       return finalResult;
