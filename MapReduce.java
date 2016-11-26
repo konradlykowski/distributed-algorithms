@@ -1,8 +1,7 @@
 import java.util.*;
 import org.json.simple.JSONObject;
 
-class MapReduce
-{
+class MapReduce {
    private LinkedHashMap intermediate;
    private JSONObject finalResult = new JSONObject();
    private int resultCount;
