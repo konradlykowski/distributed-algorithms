@@ -1,4 +1,4 @@
-//Author Shafaet, Shafaet@hackerrank.com
+//Copied and solved as the hackerrank task
 import java.util.*;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONArray;  
